@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_gps_0"
+        android:duration="200" />
+
+    <item android:drawable="@drawable/ic_gps_1"
+        android:duration="900" />
+
+</animation-list>
